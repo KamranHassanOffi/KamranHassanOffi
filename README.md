@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 About Me<br><br>I am a passionate **MERN Stack Developer** with hands-on experience in building modern web applications using **React, Next.js, MongoDB, Express.js, and Node.js**.<br><br>🎓 I am currently pursuing a **Bachelor’s degree in Software Engineering**, where I continue to strengthen my technical foundation and problem-solving skills.<br><br>💡 I am continuously learning and exploring new technologies to improve my development skills and stay up to date with the evolving tech landscape.<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### 💻 Languages<br><br>* JavaScript<br>* Java<br>* Python<br><br>### 🌐 Web Development<br><br>* React.js<br>* Next.js<br>* Node.js<br>* Express.js<br>* MongoDB<br><br>### 🧰 Tools & Technologies<br><br>* Git & GitHub<br>* VS Code<br>* SQL Server Management Studio<br>* ASP.NET<br><br>---
 
 
